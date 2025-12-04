@@ -1,4 +1,3 @@
-print("nathan was here")
 def count_ngrams(
     utterances: List[List[str]]
 ) -> Tuple[
