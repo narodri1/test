@@ -61,7 +61,7 @@ answer: we made our json file contain only things that are required and not any 
 **Discussion:**
 
 ```
-answer: 
+answer: our print statements is much more simple and mainly to notify the user and reader that a specific process is done. our print statements are also much more informal  whereas compared to LLM's like ChatGPT thiers is much more direct and doesnt really show any care for the user by letting the user actually know where the program might be. This is because the when an LLM is trained it's on high level code so when ChatGPT generates print statement it follows that high level format.   
 ```
 
 ----
@@ -72,10 +72,10 @@ answer:
 
 |yours|LLM|
 |---|---|
-|screenshot|screenshot|
+|<img width="1135" height="116" alt="image" src="https://github.com/user-attachments/assets/d9ab5888-5828-4a89-abd4-1d05e23e811a" />|<img width="371" height="278" alt="image" src="https://github.com/user-attachments/assets/04e0d204-7025-4d9f-b062-a3a48d5a327e" />|
 
 **Discussion:**
 
 ```
-Write your answer here.
+answer : again when we present the Perplexity result ours is more user friendly and prints a bit more info so that the user and reader understands which model, data type if the calculation is done using laplace smoothening and finally prints the perplexity ie this shows that we cares about the user and reader and thier understandability. while LLM's like chatgpt is much more focused on effiency that it only prints the perplexity values This is because an LLM like chatgpt is trained on such large amounts of data that use high level coding style in such a way that prioritizes the functionality of the code rather than the understandability of the reader. 
 ```
