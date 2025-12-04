@@ -56,12 +56,12 @@ answer: we made our json file contain only things that are required and not any 
 
 |yours|LLM|
 |---|---|
-|screenshot|screenshot|
+|<img width="682" height="374" alt="image" src="https://github.com/user-attachments/assets/1c8819eb-693f-4904-b96d-47e65592e4d7" />|<img width="505" height="47" alt="image" src="https://github.com/user-attachments/assets/562c0d17-fdab-4922-9085-52df69d7872d" />|
 
 **Discussion:**
 
 ```
-Write your answer here.
+answer: 
 ```
 
 ----
