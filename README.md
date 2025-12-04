@@ -24,9 +24,7 @@ Write your answer here.
 
 |yours|LLM|
 |---|---|
-|<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/927a6a0c-2082-4345-b02b-da3cbdd2d90e" />
-|<img width="638" height="663" alt="image" src="https://github.com/user-attachments/assets/35c9fc7e-2b35-4a99-a9e4-46cefb20ff55" />
-|
+|<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/927a6a0c-2082-4345-b02b-da3cbdd2d90e" />|<img width="638" height="663" alt="image" src="https://github.com/user-attachments/assets/35c9fc7e-2b35-4a99-a9e4-46cefb20ff55" />|
 
 **Discussion:**
 
