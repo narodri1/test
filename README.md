@@ -40,9 +40,7 @@ answer: our function declaration is much more simpler although it doesn't help t
 
 |yours|LLM|
 |---|---|
-|<img width="699" height="385" alt="image" src="https://github.com/user-attachments/assets/d85763a9-0031-4c6c-86da-c1c60f3c4401" />
-|<img width="600" height="793" alt="image" src="https://github.com/user-attachments/assets/9333b63b-bac5-48e4-be3f-eaa14b34ab7a" />
-|
+|<img width="699" height="385" alt="image" src="https://github.com/user-attachments/assets/d85763a9-0031-4c6c-86da-c1c60f3c4401" />|<img width="600" height="793" alt="image" src="https://github.com/user-attachments/assets/9333b63b-bac5-48e4-be3f-eaa14b34ab7a" />|
 
 **Discussion:**
 
