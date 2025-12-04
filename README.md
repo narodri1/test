@@ -13,7 +13,7 @@
 **Discussion:**
 
 ```
-Write your answer here.
+answer: our comment is more descriptive of the function and we should also note that we use inline comments (I also want to highlight that our comment is more of style that helps other when they read the code and ours isnt as formal) whereas the LLM ChatGPT's function description is much more short and to the point this is mainly cause LLM's like ChatGPT is trained on such a massive amount of data (typically for code its trained on high level code ie proffesor style code or maby even higher) and it also doesnt have any kinda inline comment. 
 ```
 
 ----
@@ -29,7 +29,7 @@ Write your answer here.
 **Discussion:**
 
 ```
-Write your answer here.
+answer: our function declaration is much more simpler although it doesn't help the reader understand what the output we will get from the function while LLM's like ChatGPT makes the reader aware of what the function variables types are and what the output type is. This is mainly due to the fact that since the LLM's like ChatGPT is trained on huge amount of high level coding style in which its important that the reader is able to understand what the output of a function will look like without having to read through the whole function.
 ```
 
 ----
