@@ -45,7 +45,7 @@ answer: our function declaration is much more simpler although it doesn't help t
 **Discussion:**
 
 ```
-Write your answer here.
+answer: we made our json file contain only things that are required and not any more whereas LLM's like ChatGPT contains much more description of things like it describes the BOS and EOS characters, the number of utterances, unigram totals and finally the length of the vocabulary. our code is more focused on the assignment and the task at hand so we didnt see the need to actually have unrequired information whereas since LLM's are trained on high level coding style ie more descriptive and able to adapt to things that might be added a later 
 ```
 
 ----
