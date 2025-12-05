@@ -27,5 +27,6 @@ Answer:
 Yes I think that computing assignments like 3 should be given for marks cause as seen in training.md and evaluation.md although LLM writes good code it can still be wrong and if a student were to blindly take it they would:
 1. Not be able to understand it properly cause they didnt write so if they were asked to explain something they wouldnt be able. (maby force all the students to randomly explain thier code and if they can't dock thier marks)
 2. lose lot of marks if they can't identify the mistakes the LLM has.
-3.
+So yes assignmenst like 3 should be given for marks but the grading and evalution process should focus rather on the student or group understanding of the code and the process rather than just on the final code. 
+grading should take into considertion students reasoning (just like how we have the justification process in the previous assignmets)
 ```
