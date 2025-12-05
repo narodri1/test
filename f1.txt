@@ -1,0 +1,23 @@
+def compute_ppl(model, n_gram, sentences, laplace):  # tokens : 2D list of all tokens
+    """
+    This function computes the perplexity scores for each model: n-grams 1, 2, 3. 
+    returns: the score
+    """
+    total_log = 0.0
+    N = 0
+    for tokens_list in sentences:
+        tok_with_bounds = set_boundaries(n_gram, tokens_list)  # add BoS, EOS based on ngram model we using
+        pairs = compute_iters(n_gram, tok_with_bounds)
+        for hist, w in pairs:
+            p = compute_prob(model, hist, w, n_gram, laplace)
+            # setting guards
+            if p <= 0: 
+                #print("0 prob computed")
+                return float('inf')
+            total_log += math.log(p)
+            N += 1
+    # another guard
+    if N == 0:
+        print("cant divide by 0")
+        return float('inf')
+    return math.exp(-total_log / N)
